@@ -1,5 +1,5 @@
 name: Setup custom CLI tooling in a custom action
-description: Installs MyCLI and adds it to the PATH
+description: Installs the golangci-lint as custom tooling and adds it to the PATH, making it available to runners
 author: travboz
 
 inputs:
