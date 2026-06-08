@@ -12,5 +12,5 @@ runs:
   main: index.js
 
 branding:
-  icon: "activity"
-  color: "blue"
+  icon: "terminal"
+  color: "purple"
